@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-![alt text] (LoadGame.gif)
+![alt text] (Pico8/LoadGame.gif)
 
 **Bold** and _Italic_ and `Code` text
 
