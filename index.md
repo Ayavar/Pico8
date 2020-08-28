@@ -1,6 +1,4 @@
-#### Jonathan Ayavar
-
-## PICO-8
+## Jonathan Ayavar
 
 ### 1. Loading My First Game.
 ![Loading a Game](https://github.com/Ayavar/Pico8/blob/gh-pages/images/LoadGame.gif?raw=true)
