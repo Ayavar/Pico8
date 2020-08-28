@@ -6,7 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![](https://github.com/Ayavar/Pico8/blob/gh-pages/images/LoadGame.gif?raw=true)
+![Loading a Game](https://github.com/Ayavar/Pico8/blob/gh-pages/images/LoadGame.gif?raw=true)
+![Typing My Name](https://github.com/Ayavar/Pico8/blob/gh-pages/images/TypeName.gif?raw=true)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
