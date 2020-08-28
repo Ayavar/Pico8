@@ -2,12 +2,12 @@ Jonathan Ayavar
 
 ### PICO-8
 
+##Loading My First Game.
 ![Loading a Game](https://github.com/Ayavar/Pico8/blob/gh-pages/images/LoadGame.gif?raw=true)
 ![Typing My Name](https://github.com/Ayavar/Pico8/blob/gh-pages/images/TypeName.gif?raw=true)
 ![PICO-8 folder](https://github.com/Ayavar/Pico8/blob/gh-pages/images/PICO-8%20folder.jpg?raw=true)
 ![Paste Game](https://github.com/Ayavar/Pico8/blob/gh-pages/images/PasteGame.gif?raw=true)
 ![Splore Menu](https://github.com/Ayavar/Pico8/blob/gh-pages/images/SploreMenu.gif?raw=true)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 ### Jekyll Themes
