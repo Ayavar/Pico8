@@ -1,14 +1,12 @@
-## Welcome to GitHub Pages
+Jonathan Ayavar
 
-You can use the [editor on GitHub](https://github.com/Ayavar/Pico8/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### PICO-8
 
 ![Loading a Game](https://github.com/Ayavar/Pico8/blob/gh-pages/images/LoadGame.gif?raw=true)
 ![Typing My Name](https://github.com/Ayavar/Pico8/blob/gh-pages/images/TypeName.gif?raw=true)
-
+![PICO-8 folder](https://github.com/Ayavar/Pico8/blob/gh-pages/images/PICO-8%20folder.jpg?raw=true)
+![Paste Game](https://github.com/Ayavar/Pico8/blob/gh-pages/images/PasteGame.gif?raw=true)
+![Splore Menu](https://github.com/Ayavar/Pico8/blob/gh-pages/images/SploreMenu.gif?raw=true)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
